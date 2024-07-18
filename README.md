@@ -12,3 +12,4 @@ Robust Implementation
 Utilizes C++ and OpenGL to create a performant and visually appealing application
 Demonstrates strong programming skills in data structures, algorithms, and computer graphics
 <img width="813" alt="Screenshot 2024-07-18 at 10 19 19 PM" src="https://github.com/user-attachments/assets/2e7a1e31-471f-443a-b241-9647aadd386b">
+<img width="853" alt="Screenshot 2024-07-18 at 10 20 59 PM" src="https://github.com/user-attachments/assets/b82967c0-bc77-4be9-85e0-807a784d1d06">
